@@ -176,6 +176,4 @@ This dashboard demonstrates:
 - Routing and navigation
 - Dark mode implementation
 
----
 
-**Note**: This is a frontend-only prototype using simulated data. In a production environment, it would connect to real IoT devices and a backend server with ML models for forecasting.
